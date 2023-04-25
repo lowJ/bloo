@@ -1,4 +1,4 @@
-update=5/2/2021 12:35:35 AM
+update=Tuesday, April 18, 2023 at 06:12:12 PM
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=mouse4.net
+LastNetListRead=bloo.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -45,8 +45,9 @@ TrackWidth4=0.5
 TrackWidth5=0.75
 TrackWidth6=1
 TrackWidth7=1.25
-TrackWidth8=2
-TrackWidth9=3
+TrackWidth8=1.5
+TrackWidth9=2
+TrackWidth10=3
 ViaDiameter1=0.8
 ViaDrill1=0.4
 ViaDiameter2=1.6
