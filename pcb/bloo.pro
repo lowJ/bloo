@@ -1,4 +1,4 @@
-update=Tuesday, April 18, 2023 at 06:12:12 PM
+update=Tuesday, April 25, 2023 at 01:06:30 AM
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=bloo.net
+LastNetListRead=bloo copy.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
